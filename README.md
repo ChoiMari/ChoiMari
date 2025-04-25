@@ -24,4 +24,4 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=280&section=footer&text=Thanks%20for%20visiting%20my%20GitHub!&fontSize=50)
+![footer](https://capsule-render.vercel.app/api?type=blur&color=timeAuto&height=280&section=footer&text=Thanks%20for%20visiting%20my%20GitHub!&fontSize=50)
