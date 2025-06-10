@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&height=200&section=header&text=ChoiMari's-nl-GitHub%20Space&fontSize=60&animation=twinkling&rotate=-5&stroke=FFFFFF&strokeWidth=5)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&height=220&section=header&text=ChoiMari's-nl-GitHub%20Space&fontSize=70&animation=twinkling&rotate=-3&stroke=FFFFFF&strokeWidth=5)
 
 <br><br>
 
