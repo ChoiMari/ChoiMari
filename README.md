@@ -15,14 +15,13 @@
 
 ### 🛠️ Tech
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=MyBatis&logoColor=white"/> ![JPA](https://img.shields.io/badge/JAP-2C3E50?style=flat&logoColor=#2C3E50) <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logoColor=#005F0F)
+<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=myBatis&logoColor=white"/> ![JPA](https://img.shields.io/badge/JAP-2C3E50?style=flat&logo=jpa&logoColor=#2C3E50) <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
 
 ### 🗄️ Databases
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logoColor=#F80000) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logoColor=#4479A1)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
 ### 🧰 Tools   
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logoColor=#F05032) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logoColor=#181717) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logoColor=#000000) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logoColor=#4A154B)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white)
 <br>
 
 ## Stats
