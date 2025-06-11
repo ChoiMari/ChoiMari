@@ -10,7 +10,18 @@
 <br>
 
 ## Learning..🖍️
+### 👩🏻‍💻 Languages
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+### 🛠️ Tech
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=MyBatis&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logoColor=#005F0F)
+
+### 🗄️ Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logoColor=#F80000) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logoColor=#4479A1)  
+
+### 🧰 Tools   
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logoColor=#F05032) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logoColor=#181717) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logoColor=#000000) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logoColor=#4A154B)
 
 <br>
 
