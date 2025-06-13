@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=myBatis&logoColor=white"/> ![JPA](https://img.shields.io/badge/JAP-2C3E50?style=flat&logo=jpa&logoColor=#2C3E50) <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
+<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=myBatis&logoColor=white"/> ![JPA](https://img.shields.io/badge/JPA-2C3E50?style=flat&logo=jpa&logoColor=#2C3E50) <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/> ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
 
 ### 🗄️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
