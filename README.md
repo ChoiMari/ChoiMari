@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Relief&size=30&duration=3000&pause=800&color=F79831FF&width=435&lines=🐰+Hi+there!;I'm+Choi+Mari🥕)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Relief&pause=1000&color=F79560&width=435&lines=Welcome+to+my+little+corner+of+the+web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Relief&pause=1000&color=F79560&width=435&lines=Welcome+to+my+little+corner+of+the+web.)](https://git.io/typing-svg)
 
 <br>
 
