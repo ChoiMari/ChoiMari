@@ -11,7 +11,7 @@
 
 ## Learning..🖍️
 ### 👩🏻‍💻 Languages
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
 
 ### 🛠️ Tech
 <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
