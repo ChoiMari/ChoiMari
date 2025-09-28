@@ -14,8 +14,7 @@
 <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
 
 ### 🛠️ Tech
-<img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=myBatis&logoColor=white"/> ![JPA](https://img.shields.io/badge/JPA-2C3E50?style=flat-square&logo=jpa&logoColor=#2C3E50) <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/> ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+<img src="https://img.shields.io/badge/Servlet & JSP-003B57?style=flat-square&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=myBatis&logoColor=white"/> ![JPA](https://img.shields.io/badge/JPA-2C3E50?style=flat-square&logo=jpa&logoColor=#2C3E50) <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/> ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
 ### 🗄️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
