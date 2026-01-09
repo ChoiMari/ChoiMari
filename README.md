@@ -24,7 +24,7 @@
 <br>
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiMari&show_icons=true&theme=solarized-light&locale=kr&border_radius=10&line_height=28)](https://github.com/anuraghazra/github-readme-stats) 
+[![ChoiMari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiMari&show_icons=true&theme=solarized-light&locale=kr&border_radius=10&line_height=28)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiMari&langs_count=10&layout=compact&theme=solarized-light&locale=kr&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
@@ -33,5 +33,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ChoiMari&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
+
+## activity graph    
+[![ChoiMari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChoiMari&theme=Default)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>  
 
 ![footer](https://capsule-render.vercel.app/api?type=blur&color=timeAuto&height=280&section=footer&text=Thanks%20for%20visiting%20my%20GitHub!&fontSize=50)
