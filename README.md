@@ -27,12 +27,6 @@
 [![ChoiMari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiMari&show_icons=true&theme=holi&locale=kr&border_radius=10&line_height=28)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiMari&langs_count=10&layout=compact&theme=holi&locale=kr&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
-## trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChoiMari&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
 
 ## activity graph    
 [![ChoiMari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChoiMari&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
