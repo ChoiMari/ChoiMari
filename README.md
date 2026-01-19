@@ -30,7 +30,7 @@
 <br>
 
 ## trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChoiMari&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChoiMari&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
